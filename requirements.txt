@@ -1,0 +1,10 @@
+Flask
+gunicorn
+scikit-learn
+joblib
+numpy
+pandas
+PyPDF2
+spacy
+python-docx
+Werkzeug
